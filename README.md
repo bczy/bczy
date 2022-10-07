@@ -1,8 +1,8 @@
 Hey!
 
-- 👀 juste some personnal repositories, nothing serious.
+- 👀 just some personnal repositories, nothing serious.
 
-Some three, react, canvas projets. 
+Some three, react, canvas projets, pocs...
 Contributions welcome!
 
 <!---
